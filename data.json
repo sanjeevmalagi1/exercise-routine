@@ -1,0 +1,297 @@
+[
+  {
+    "workout" : [
+      {
+        "name": "Arm Swing",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Side Rotations",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Side Logs",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Standing Crunches",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Twisters",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Butt Kicks",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Cross Stretch",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Jumping Jacks",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 30,
+        "type": "rest" 
+      }
+    ]
+  },
+  {
+    "workout" : [
+      {
+        "name": "Push Ups",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Squats",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Squat Jumps",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Diamond Pushups",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Squat Jumps",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Push Ups",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Squat Hold",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Diamond Pushups",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 30,
+        "type": "rest" 
+      }
+    ]
+  },
+  {
+    "workout" : [
+      {
+        "name": "Dumbbell Rows",
+        "duration": 30,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Shoulder Press",
+        "duration": 30,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Front Rises",
+        "duration": 30,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Lateral Rises",
+        "duration": 30,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Bicep Curls",
+        "duration": 30,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Triceps Kickbacks",
+        "duration": 30,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Calf Rises",
+        "duration": 30,
+        "type": "exercise" 
+      },
+      {
+        "duration": 30,
+        "type": "rest" 
+      }
+    ]
+  },
+  {
+    "workout" : [
+      {
+        "name": "Knee Touch",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Russian Twist",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Bicycles",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Knee To Elbow Plank",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Knee Touch",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Russian Twist",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Bicycles",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 10,
+        "type": "rest" 
+      },
+      {
+        "name": "Knee To Elbow Plank",
+        "duration": 20,
+        "type": "exercise" 
+      },
+      {
+        "duration": 30,
+        "type": "rest" 
+      }
+    ]
+  }
+]
