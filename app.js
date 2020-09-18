@@ -1,4 +1,5 @@
 var EXERCISE_DATA = {};
+var time_coefficient = 1000;
 
 var applicationState = {
   currentWorkout: 0,
@@ -37,12 +38,12 @@ function tickDown(totalTimeInSeconds, onComplete) {
     applicationState.setState({
       currentTime: applicationState.currentTime - 1,
     });
-  }, 10);
+  }, time_coefficient);
   
   setTimeout(function() {
     clearInterval(interval);
     onComplete();
-  }, totalTimeInSeconds * 10);
+  }, totalTimeInSeconds * time_coefficient);
 }
 
 function handleResponse(data, status) {
